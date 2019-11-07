@@ -9,5 +9,6 @@ def line (order)
     order.each_with_index  do |name,i|
       puts order(name)
     end
+  end
   
 end
