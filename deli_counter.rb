@@ -33,6 +33,7 @@ def now_serving (order)
   
   if order.length == 0
     puts "Line is empty"
+  end
   
 end
   
