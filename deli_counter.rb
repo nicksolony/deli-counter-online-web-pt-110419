@@ -15,3 +15,10 @@ def line (order)
     end
   
 end
+
+
+def take_a_number (order)
+  
+  
+  
+end
