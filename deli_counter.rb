@@ -10,7 +10,7 @@ def line (order)
       order.each_with_index  do |name,i|
       numbered_line << "#{i+1}. #{name}"
       end
-    puts ""
+    puts "The line is currently: #{numbered_line.join"
     end
   
 end
