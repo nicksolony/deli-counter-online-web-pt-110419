@@ -21,7 +21,7 @@ def take_a_number (order,name)
     
     if order.length == 0
       order << name
-      puts ""
+      puts "Welcome, #{name}. You are number #{order.index2 in line."
     end
   
 end
