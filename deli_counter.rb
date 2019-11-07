@@ -3,7 +3,7 @@
 katz_deli = []
 
 def line (order)
-    if order.length = 0
+    if order.length == 0
       puts "The line is currently empty."
     else
     order.each_with_index  do |name,i|
