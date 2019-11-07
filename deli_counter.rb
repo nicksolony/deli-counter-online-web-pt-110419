@@ -21,5 +21,6 @@ def take_a_number (order,name)
     
     if order.length == 0
       order << name
+    end
   
 end
