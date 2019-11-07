@@ -34,7 +34,7 @@ def now_serving (order)
   if order.length == 0
     puts "Line is empty"
   else
-    puts "Currently serving #{}."
+    puts "Currently serving #{order.shift}."
   end
   
 end
