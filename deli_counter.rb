@@ -17,7 +17,7 @@ def line (order)
 end
 
 
-def take_a_number (order)
+def take_a_number (order,name)
   
   
   
