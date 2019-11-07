@@ -28,3 +28,11 @@ def take_a_number (order,name)
     #end
   
 end
+
+def now_serving (order)
+  
+  
+  
+end
+  
+  
