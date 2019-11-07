@@ -7,7 +7,7 @@ def line (order)
       puts "The line is currently empty."
     else
     order.each_with_index  do |name,i|
-      puts order
+      puts order(name)
     end
   
 end
